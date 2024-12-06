@@ -39,8 +39,6 @@ This project provides a Web API for sorting numbers using multiple algorithms an
       "MemoryUsage": 2048
     }
   ] 
-  
-  ```json
 
  - **Parameters**:
   - ExecutionTime - nanoseconds
@@ -54,4 +52,3 @@ This project provides a Web API for sorting numbers using multiple algorithms an
     {
        "Content": "1 2 5 8 10"
     }
-   ```json
